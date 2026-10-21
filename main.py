@@ -1,1 +1,1 @@
-print("///dsфassxzadasы")
+print("///")
